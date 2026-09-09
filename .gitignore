@@ -1,0 +1,28 @@
+# Local source downloads and rendered reading previews
+/research_sources/
+
+# Existing course handouts and templates in the workspace root
+/*.pdf
+/*.doc
+/*.docx
+/*.tex
+
+# Raw experiment media; track processed data and selected figures separately
+/data/raw/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Temporary files and local configuration
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
