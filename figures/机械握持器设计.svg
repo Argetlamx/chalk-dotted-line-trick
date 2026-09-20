@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1640" viewBox="0 0 1800 1640">
+<rect width="1800" height="1640" fill="#f2f5f8"/>
+<text x="35" y="56" font-family="Microsoft YaHei, sans-serif" font-size="38" fill="#182b45">粉笔虚线实验 · 双自由度机械握持器</text>
+<text x="35" y="95" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">水平板面｜轴心只升降，粉笔绕单轴转动｜设计示意，不按比例；2026-09-20</text>
+<rect x="30" y="125" width="850" height="450" fill="white" stroke="#ced8e2" stroke-width="2"/>
+<text x="50" y="165" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#182b45">A  侧视 X–z：运动与受力</text>
+<rect x="75" y="494" width="670" height="20" fill="#344658" stroke="#182b45" stroke-width="2"/>
+<text x="90" y="545" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">移动黑板＋载板</text>
+<polyline points="575,545 735,545" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="735,545 722.7138441335347,551.7119575404588" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="735,545 722.7138441335347,538.2880424595412" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="585" y="539" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">v →</text>
+<rect x="617" y="204" width="26" height="270" fill="#dae4ed" stroke="#182b45" stroke-width="2"/>
+<rect x="574" y="315" width="83" height="67" fill="#bfd9ed" stroke="#182b45" stroke-width="2"/>
+<polyline points="590,204 685,204 685,474 590,474" fill="none" stroke="#8191a2" stroke-width="4"/>
+<polyline points="682,204 682.0,216.4 689.0,223.01333333333332 675.0,229.62666666666667 689.0,236.24 675.0,242.85333333333335 689.0,249.46666666666667 675.0,256.08 689.0,262.6933333333333 675.0,269.3066666666667 689.0,275.92 675.0,282.5333333333333 689.0,289.14666666666665 675.0,295.76 689.0,302.37333333333333 675.0,308.9866666666667 682.0,315.6 682,328" fill="none" stroke="#d97b22" stroke-width="3"/>
+<polyline points="682,370 682.0,380.4 689.0,385.94666666666666 675.0,391.49333333333334 689.0,397.04 675.0,402.58666666666664 689.0,408.1333333333333 675.0,413.68 689.0,419.2266666666667 675.0,424.7733333333333 689.0,430.32 675.0,435.8666666666667 689.0,441.4133333333333 675.0,446.96000000000004 689.0,452.50666666666666 675.0,458.05333333333334 682.0,463.6 682,474" fill="none" stroke="#d97b22" stroke-width="3"/>
+<polyline points="657,328 682,328" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="657,370 682,370" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="703" y="273" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#d97b22">上簧</text>
+<text x="703" y="432" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#d97b22">下簧</text>
+<polyline points="575,348 468,348" fill="none" stroke="#2675b8" stroke-width="12"/>
+<circle cx="468" cy="348" r="12" fill="#2675b8" stroke="#182b45" stroke-width="3"/>
+<polyline points="455,361 400,410" fill="none" stroke="#18876e" stroke-width="27"/>
+<polyline points="400,410 303,494" fill="none" stroke="#c5b49c" stroke-width="16"/>
+<circle cx="303" cy="492" r="5" fill="white" stroke="#182b45" stroke-width="3"/>
+<text x="395" y="312" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">P 固定X，可升降</text>
+<text x="324" y="392" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#18876e">可拆笔套</text>
+<text x="199" y="437" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">Q 尖端</text>
+<polyline points="554,320 554,275" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="554,275 560.7119575404588,287.2861558664652" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="554,275 547.2880424595412,287.2861558664652" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="554,375 554,417" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="554,417 547.2880424595412,404.7138441335348" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="554,417 560.7119575404588,404.7138441335348" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="597" y="190" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#2675b8">导轨</text>
+<text x="95" y="218" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#d97b22">竖直弹簧连：固定架 / 滑台</text>
+<text x="95" y="254" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">转动弹簧连：滑台 / 转子（见D）</text>
+<polyline points="303,491 393,491" fill="none" stroke="#8191a2" stroke-width="2"/>
+<text x="340" y="488" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">θ</text>
+<polyline points="100,465 100,382" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="100,382 106.71195754045884,394.2861558664652" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="100,382 93.28804245954116,394.2861558664652" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="105" y="394" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#182b45">z</text>
+<polyline points="100,465 175,465" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="175,465 162.7138441335348,471.71195754045885" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="175,465 162.7138441335348,458.28804245954115" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="180" y="474" font-family="Microsoft YaHei, sans-serif" font-size="20" fill="#182b45">X</text>
+<rect x="920" y="125" width="850" height="450" fill="white" stroke="#ced8e2" stroke-width="2"/>
+<text x="940" y="165" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#182b45">B  正视 y–z：轴承与侧置立架</text>
+<rect x="955" y="496" width="750" height="18" fill="#344658" stroke="#182b45" stroke-width="2"/>
+<rect x="978" y="209" width="38" height="273" fill="#e1e8ef" stroke="#182b45" stroke-width="2"/>
+<rect x="996" y="325" width="66" height="65" fill="#bfd9ed" stroke="#182b45" stroke-width="2"/>
+<polyline points="1060,355 1170,355" fill="none" stroke="#2675b8" stroke-width="9"/>
+<rect x="1165" y="302" width="22" height="120" fill="#dae4ed" stroke="#182b45" stroke-width="2"/>
+<rect x="1335" y="302" width="22" height="120" fill="#dae4ed" stroke="#182b45" stroke-width="2"/>
+<circle cx="1176" cy="355" r="15" fill="#a8c7e2" stroke="#182b45" stroke-width="3"/>
+<circle cx="1346" cy="355" r="15" fill="#a8c7e2" stroke="#182b45" stroke-width="3"/>
+<polyline points="1145,355 1380,355" fill="none" stroke="#182b45" stroke-width="6"/>
+<rect x="1243" y="337" width="40" height="37" fill="#b5dbc9" stroke="#182b45" stroke-width="2"/>
+<polyline points="1263,374 1263,493" fill="none" stroke="#c5b49c" stroke-width="15"/>
+<text x="1212" y="292" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">两轴承跨距20–30 mm</text>
+<text x="1398" y="354" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">轴沿y</text>
+<text x="1125" y="449" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">夹头在两支撑之间</text>
+<text x="945" y="554" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">立架在板边，短横向连接避开运动路径</text>
+<polyline points="1540,472 1660,472" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="1660,472 1647.7138441335348,478.71195754045885" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="1660,472 1647.7138441335348,465.28804245954115" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="1652" y="462" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">y</text>
+<text x="950" y="217" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">固定立架</text>
+<text x="1430" y="243" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">光轴Ø3 mm</text>
+<text x="1430" y="278" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">F623ZZ ×2</text>
+<rect x="30" y="605" width="850" height="450" fill="white" stroke="#ced8e2" stroke-width="2"/>
+<text x="50" y="645" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#182b45">C  俯视 X–y：相机与移动路径</text>
+<rect x="295" y="710" width="460" height="190" fill="#e6ecef" stroke="#182b45" stroke-width="2"/>
+<text x="520" y="740" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">黑板移动区域</text>
+<polyline points="325,811 718,811" fill="none" stroke="#18876e" stroke-width="3"/>
+<text x="513" y="858" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#18876e">粉笔轨迹</text>
+<polyline points="566,879 720,879" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="720,879 707.7138441335347,885.7119575404588" fill="none" stroke="#2675b8" stroke-width="4"/>
+<polyline points="720,879 707.7138441335347,872.2880424595412" fill="none" stroke="#2675b8" stroke-width="4"/>
+<text x="635" y="867" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">v / X</text>
+<rect x="418" y="669" width="73" height="29" fill="#e1e8ef" stroke="#182b45" stroke-width="2"/>
+<text x="82" y="688" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">立架/导轨在板侧</text>
+<polyline points="455,698 455,784" fill="none" stroke="#2675b8" stroke-width="9"/>
+<polyline points="455,784 455,837" fill="none" stroke="#182b45" stroke-width="7"/>
+<polyline points="455,811 348,811" fill="none" stroke="#b4a793" stroke-width="12"/>
+<circle cx="455" cy="811" r="7" fill="#18876e" stroke="#182b45" stroke-width="3"/>
+<circle cx="348" cy="811" r="6" fill="#18876e" stroke="#182b45" stroke-width="3"/>
+<text x="370" y="776" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#182b45">粉笔</text>
+<rect x="309" y="952" width="78" height="43" fill="#c8d5e1" stroke="#182b45" stroke-width="2"/>
+<polyline points="348,944 348,832" fill="none" stroke="#8191a2" stroke-width="3"/>
+<polyline points="348,832 354.71195754045885,844.2861558664653" fill="none" stroke="#8191a2" stroke-width="3"/>
+<polyline points="348,832 341.28804245954115,844.2861558664653" fill="none" stroke="#8191a2" stroke-width="3"/>
+<text x="420" y="965" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">相机沿y看X–z平面</text>
+<text x="420" y="1000" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">转轴沿y；尖端在轴心左侧</text>
+<text x="76" y="1042" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#182b45">板下另装导向/滚轮；机架不随板运动</text>
+<rect x="920" y="605" width="850" height="450" fill="white" stroke="#ced8e2" stroke-width="2"/>
+<text x="940" y="645" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#182b45">D  转动回复：可调锚架随滑台升降</text>
+<polyline points="1000,918 1000,755 1670,755 1670,918" fill="none" stroke="#2675b8" stroke-width="5"/>
+<text x="1075" y="691" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#2675b8">蓝框固定在滑台；可调角后锁紧</text>
+<polyline points="1040,782 1068.4,782.0 1083.5466666666666,775.0 1098.6933333333334,789.0 1113.84,775.0 1128.9866666666667,789.0 1144.1333333333334,775.0 1159.28,789.0 1174.4266666666667,775.0 1189.5733333333333,789.0 1204.72,775.0 1219.8666666666666,789.0 1235.0133333333333,775.0 1250.16,789.0 1265.3066666666666,775.0 1280.4533333333334,789.0 1295.6,782.0 1324,782" fill="none" stroke="#d97b22" stroke-width="3"/>
+<polyline points="1324,782 1355.1,782.0 1371.6866666666667,775.0 1388.2733333333333,789.0 1404.86,775.0 1421.4466666666667,789.0 1438.0333333333333,775.0 1454.62,789.0 1471.2066666666667,775.0 1487.7933333333333,789.0 1504.38,775.0 1520.9666666666667,789.0 1537.5533333333333,775.0 1554.14,789.0 1570.7266666666667,775.0 1587.3133333333333,789.0 1603.9,782.0 1635,782" fill="none" stroke="#d97b22" stroke-width="3"/>
+<circle cx="1040" cy="782" r="7" fill="#2675b8" stroke="#182b45" stroke-width="3"/>
+<circle cx="1635" cy="782" r="7" fill="#2675b8" stroke="#182b45" stroke-width="3"/>
+<circle cx="1324" cy="782" r="8" fill="#18876e" stroke="#182b45" stroke-width="3"/>
+<polyline points="1324,782 1324,900" fill="none" stroke="#18876e" stroke-width="9"/>
+<circle cx="1324" cy="900" r="16" fill="#18876e" stroke="#182b45" stroke-width="3"/>
+<text x="1270" y="948" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">P转轴</text>
+<text x="1348" y="856" font-family="Microsoft YaHei, sans-serif" font-size="24" fill="#182b45">r</text>
+<text x="1030" y="837" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">B</text>
+<text x="1628" y="837" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">C</text>
+<text x="1309" y="761" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">A</text>
+<text x="1010" y="991" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">对拉：一伸一缩。γ ≈ 2 k_s r²（小角估算）</text>
+<text x="1005" y="1034" font-family="Microsoft YaHei, sans-serif" font-size="22" fill="#d97b22">工作点可预紧；两根弹簧全程保持拉紧</text>
+<rect x="30" y="1085" width="850" height="450" fill="white" stroke="#ced8e2" stroke-width="2"/>
+<text x="50" y="1125" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#182b45">E  可换粉笔夹：不用粘粉笔</text>
+<rect x="106" y="1207" width="235" height="100" fill="#e1c69c" stroke="#182b45" stroke-width="2"/>
+<rect x="106" y="1160" width="235" height="38" fill="#e1c69c" stroke="#182b45" stroke-width="2"/>
+<rect x="106" y="1198" width="235" height="9" fill="#89bfae" stroke="#182b45" stroke-width="2"/>
+<rect x="106" y="1230" width="235" height="9" fill="#89bfae" stroke="#182b45" stroke-width="2"/>
+<polyline points="135,1219 493,1219" fill="none" stroke="#b4a793" stroke-width="21"/>
+<polyline points="124,1139 124,1324" fill="none" stroke="#182b45" stroke-width="5"/>
+<polyline points="320,1139 320,1324" fill="none" stroke="#182b45" stroke-width="5"/>
+<rect x="111" y="1145" width="27" height="12" fill="#e1e8ef" stroke="#182b45" stroke-width="2"/>
+<rect x="307" y="1145" width="27" height="12" fill="#e1e8ef" stroke="#182b45" stroke-width="2"/>
+<text x="379" y="1166" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">两颗螺钉对称夹紧</text>
+<text x="380" y="1283" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">粉笔伸出Lc</text>
+<text x="83" y="1373" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">替代结构：V槽木块＋薄橡胶＋蝶形螺母</text>
+<text x="83" y="1415" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#18876e">首选：旋紧笔套；两管夹固定笔套外壳</text>
+<text x="83" y="1455" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">换笔后重设L / Lc、θ0与N0，检查滑移</text>
+<text x="83" y="1497" font-family="Microsoft YaHei, sans-serif" font-size="21" fill="#8191a2">侧面投影：螺钉在粉笔两侧，不穿过粉笔</text>
+<rect x="920" y="1085" width="850" height="450" fill="white" stroke="#ced8e2" stroke-width="2"/>
+<text x="940" y="1125" font-family="Microsoft YaHei, sans-serif" font-size="28" fill="#182b45">F  装配与标定顺序</text>
+<text x="948" y="1169" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">1  导轨＋滑台 → 先测寄生摩擦</text>
+<text x="948" y="1213" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">2  两轴承＋转轴 → 确认可自由转动</text>
+<text x="948" y="1257" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">3  装可拆笔夹 → 记录L、Lc与质量</text>
+<text x="948" y="1301" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">4  上下簧 → 调竖直预紧并测k</text>
+<text x="948" y="1345" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">5  转臂对拉簧 → 调预力矩并测γ</text>
+<text x="948" y="1389" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">6  反复匹配N0和θ0 → 拍摄与测速</text>
+<text x="948" y="1433" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#182b45">7  手拉复现通过 → 再装电机</text>
+<text x="948" y="1477" font-family="Microsoft YaHei, sans-serif" font-size="23" fill="#d97b22">实线：机械连接；橙色：弹簧；蓝色：导向</text>
+<text x="35" y="1584" font-family="Microsoft YaHei, sans-serif" font-size="24" fill="#182b45">完整尺寸、购件词、500元分配和误差验收：实验装置设计.md  |  设计尚未实物验证</text>
+</svg>
